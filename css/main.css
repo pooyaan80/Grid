@@ -1,0 +1,36 @@
+ *{
+    box-sizing: border-box;
+ }
+.container{
+    border: 5px solid rgb(43, 255, 149);
+}
+
+.box {
+    padding: 30px;
+    font-size: 35px;
+    color: rgb(240, 255, 248);
+    text-align: center;
+}
+.box-1 {
+    background: blueviolet;
+}
+
+.box-2 {
+    background: rgb(223, 226, 43);
+}
+
+.box-3 {
+    background: rgb(43, 226, 141);
+}
+
+.box-4 {
+    background: rgb(43, 168, 226);
+}
+
+.box-5 {
+    background: rgb(226, 43, 180);
+}
+
+.box-6 {
+    background: blue;
+}
